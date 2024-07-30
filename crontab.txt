@@ -1,0 +1,1 @@
+*/2 19-20 * 12 * /path/to/record_continuously.sh
